@@ -14,7 +14,15 @@
   "author": "William Rodriguez <william.rodriguez@alteru.co>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamr1015/practicas-NPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/williamr1015/practicas-NPM/issues"
+  },
+  "homepage": "https://github.com/williamr1015/practicas-NPM#readme"
 }
